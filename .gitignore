@@ -1,0 +1,8 @@
+*.xlsx
+*.xls
+data/private/
+!data/synthetic_study_data.csv
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
